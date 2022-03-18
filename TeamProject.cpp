@@ -1,10 +1,14 @@
 #include <iostream>
 
-using namespace
+using namespace std;
 
 int main(){
 
-    cout << "¾çÀ¯Áø :: Hello World ¼öÁ¤Çß½À´Ï´Ù." << endl;
+
+    cout << "Gooooooood" << endl;
+
+    cout << "Â¾Ã§Ã€Â¯ÃÃ¸ :: Hello World Â¼Ã¶ÃÂ¤Ã‡ÃŸÂ½Ã€Â´ÃÂ´Ã™." << endl;
+
 
     return 0;
 }
