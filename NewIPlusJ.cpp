@@ -7,5 +7,5 @@ void main
 {
 	int i = 3;
 	int j = 10;
-	cout << <<"i + j = " << i + j << endl;
+	cout << "i + j = " << i + j << endl;
 }
