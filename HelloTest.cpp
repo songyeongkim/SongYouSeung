@@ -8,6 +8,7 @@ int mulFunction(int i, int j)
 
 int main()
 {
+	
 	cout << "Hello Git!" << endl;
 	cout << "mulFunction GOGO" << endl;
 	cout << "this file is mine nowwwwwwwww" << endl;
